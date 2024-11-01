@@ -1,0 +1,247 @@
+=== Customiser Tools For GinkGos ===
+
+== Archived Changelog Entries ==
+
+This file contains older changelog entries, so we can keep the size of the standard WordPress readme.txt file reasonable.
+For the latest changes, please see the "Changelog" section of the [readme.txt file](https://plugins.svn.wordpress.org/stats4wp/trunk/readme.txt).
+
+= 1.4.13 (2408-SFP1) =
+*Release Date - 9 August 2024*
+
+* Compatible Wordpress 6.6.1,
+* Update GeoIP Database 20240806.
+
+= 1.4.12 (2406-SFP1) =
+*Release Date - 22 June 2024*
+
+* Compatible Wordpress 6.5.4,
+* Compatible PHP8.3 and change Requires PHP to 8.3,
+* Update GeoIP Database 20240618.
+
+= 1.4.11 (2405-SFP1) =
+*Release Date - 04 May 2024*
+
+* Compatible Wordpress 6.5.3,
+* Update GeoIP Database 20240503,
+* Error:  PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE.
+
+= 1.4.10 (2402-SFP3) =
+*Release Date - 25 Febrary 2024*
+
+* Compatible PHP8.x,
+* Error: Your Composer dependencies require a PHP version ">= 8.0.0".3.
+
+= 1.4.9 (2402-SFP2) =
+*Release Date - 24 Febrary 2024*
+
+* Compatible PHP8.x,
+* Add translations,
+* Correction phpcs 3.7.2 warning Wordpress,
+* Update GeoIP Database 20240223.
+
+= 1.4.8 (2402-SFP1) =
+*Release Date - 11 Febrary 2024*
+
+* Compatible Wordpress 6.4.3,
+* Update GeoIP Database 20240209,
+* Correction phpcs 3.7.2 error,
+* Change Google GeoChart by jVectorMap 2.0.5,
+* Correction country map to used parameters,
+* Correction Use of undefined constant stats4wp_file,
+* Add Data OS Ubuntu, Fedora,
+* Add Data device pda.
+
+= 1.4.7 (2311-SFP3) =
+*Release Date - 18 November 2023*
+
+* Compatible Wordpress 6.4.1,
+* Update GeoIP Database 20231117,
+* Correction phpcs 3.7.2 error,
+* Change Google GeoChart by jVectorMap 2.0.5,
+* Correction country map to used parameters,
+* Correction Use of undefined constant stats4wp_file.
+
+= 1.4.6 (2311-SFP2) =
+*Release Date - 11 November 2023*
+
+* Compatible Wordpress 6.4,
+* Update GeoIP Database 20231107,
+* Correction phpcs 3.7.2 error,
+* Change Google GeoChart by jVectorMap 2.0.5,
+* Correction country map to used parameters.
+
+= 1.4.5 (2311-SFP1) =
+*Release Date - 1 November 2023*
+
+* Compatible Wordpress 6.3.2,
+* Update GeoIP Database 20230929,
+* Correction phpcs 3.7.2 error,
+* Change Google GeoChart by jVectorMap 2.0.5,
+* Correction country map to used parameters.
+
+= 1.4.4 (2309-SFP2) =
+*Release Date - 30 September 2023*
+
+* Compatible Wordpress 6.3.1,
+* Update GeoIP Database 20230929,
+* Correction phpcs 3.7.2 error.
+
+= 1.4.3 (2309-SFP1) =
+*Release Date - 1 September 2023*
+
+* Compatible Wordpress 6.3.1,
+* Update GeoIP Database 20230901.
+
+= 1.4.2 (2304-SFP1) =
+*Release Date - 2 April 2023*
+
+* Correction bug: Undefined index: cdn_chartjs,
+* Sanitized Data, Escaped, and Validated (used sanitize_text_field),
+* Update GeoIP Database 20230331.
+
+= 1.4.1 (2303-SFP1) =
+*Release Date - 23 March 2023*
+
+* Compatible Wordpress 6.2,
+* Sanitized Data, Escaped, and Validated (used sanitize_text_field),
+* change Data agent sort by browser and usages,
+* change Data os sort by OS and usages,
+* change Data device sort by device and usages,
+* OS and navigator data add percent bar.
+
+= 1.4.0 (2303-SFP1) =
+*Release Date - 22 March 2023*
+
+* Compatible Wordpress 6.2,
+* Delete cdn charjs Option,
+* Sanitized Data, Escaped, and Validated (used sanitize_text_field),
+* Variables and options must be escaped,
+* Update ChartJS 4.2.0 to 4.2.1,
+* Update GeoIP Database 20230321.
+
+= 1.3.9 (2302-SFP2) =
+*Release Date - 08 Febrary 2023*
+
+* Bug 1.3.8,
+* Update ChartJS 3.9.1 to 4.2.0,
+* Add option CDN for ChartJS,
+* Update GeoIP Database 20230203,
+* Add device type gaming and television,
+* Add agent type opera and Samsung Internet,
+* request Optimisation,
+* Correction php warning.
+
+= 1.3.8 (2302-SFP1) =
+*Release Date - 05 Febrary 2023*
+
+* Update ChartJS 3.9.1 to 4.2.0,
+* Add option CDN for ChartJS,
+* Update GeoIP Database 20230203,
+* Add device type gaming and television,
+* Add agent type opera and Samsung Internet,
+* request Optimisation,
+* Correction php warning.
+
+= 1.3.7 (2211-SFP3) =
+*Release Date - 03 November 2022*
+
+* Update ChartJS 3.7.1 to 3.9.1,
+* Composer: Php require >=7.3 to ^7.3||^8.0,
+* Update GeoIP Database 20221111,
+* request Optimisation,
+* Correction multisite uninstall,
+* Correction php warning.
+
+= 1.3.6 (2211-SFP2) =
+*Release Date - 03 November 2022*
+
+* Correction summary dashbord (exclude local location),
+* Update GeoIP Database 20221104.
+
+= 1.3.5 (2211-SFP1) =
+*Release Date - 03 November 2022*
+
+* Correction summary dashbord (exclude local location),
+* Update psr/cache v1.0.1 => v3.0.0,
+* Update GeoIP Database 20221104.
+
+
+= 1.3.4 (2205-SFP1) =
+*Release Date - 25 May 2022*
+
+* Add images for browser and search engine,
+* Add ecosia search engine in dashbord,
+* Update whichbrowser v2.1.2 => v2.1.7,
+* Add Chart by_hours_days,
+* Correction variable data not initialized,
+* Test up to Wordpress 6.0,
+* Update GeoIP Database 20220524.
+
+= 1.3.3 (2204-SFP2) =
+*Release Date - 03 April 2022*
+
+* Error SVN update
+
+= 1.3.2 (2204-SFP1) =
+*Release Date - 03 April 2022*
+
+* Update GeoIP Database 20220329,
+* Add new icones for browsers,
+* Update translations,
+* Add Region GeoCharts,
+* Fixed Graph display Month/Weeks,
+* Add Export data by years.
+
+= 1.3.1 (2203-SFP1) =
+*Release Date - 19 March 2022*
+
+* Update GeoIP Database 20220315,
+* Update ChartJS 3.6.2 to 3.7.1,
+* Test up to 5.9,
+* Add option to disable statistics on admin pages.
+
+= 1.3.0 (2201-SFP1) =
+*Release Date - 13 January 2022*
+
+* Update GeoIP Database 20220111,
+* Add enjoyed message on setting tabs,
+* Change graph type to bar for top device in dashboard,
+* Change Summary informations to dashboard,
+* Dashboard Add Total and Realtime views,
+* Dashboard Add users informations,
+* Change display information un sub type,
+* Test up to 5.8.3.
+
+= 1.2.0 (2112-SFP1) =
+*Release Date - 13 december 2021*
+
+* Update GeoIP Database 20211207,
+* Add Support information,
+* Add Tab into settings for delete data,
+* Fixed CSS style errors,
+* Update Chart.jv v3.6.2,
+* Delete plot into Line graphs,
+* Add widget Visitors comptors.
+
+= 1.1.1 (2111-SFP2) =
+*Release Date - 16 november 2021*
+
+* Correction Dashboard Recent visotors
+
+= 1.1.0 (2111) =
+*Release Date - 13 november 2021*
+
+* Correction Navigator chart
+* Correction settings tabs
+* Color active menu
+* Add chart Bots, Visitors by hours, Hits and referred
+* Add delete data in settings menu
+* New Dashboard
+* Change of the colors of the graphics
+* Update of translations
+* Update GeoIP Database 20211109
+
+= 1.0.0 (2110) =
+*Release Date - 23 October 2021*
+
+* Initial version
